@@ -1,6 +1,7 @@
 # CS106A-Stanford
 
 Programming Methodology
+
 cs106a.standford.edu
 
 In this course, we have 6 assignments.
