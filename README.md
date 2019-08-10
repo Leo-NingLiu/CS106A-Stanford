@@ -11,5 +11,3 @@ In this course, we have 6 assignments.
 4. ParaKarel
 5. ImageShop
 6. NameSurfer
-
-I have already uploaded all my coding file as a zip file.
